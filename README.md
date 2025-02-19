@@ -41,4 +41,7 @@ This project analyzes **Black Friday Sale Data** to uncover trends, customer beh
 ![image](https://github.com/user-attachments/assets/746e400a-8acf-4ab8-a608-0f00fe9f5029)
 ![image](https://github.com/user-attachments/assets/01bede29-3413-4915-a379-05933e71aaf7)
 
+## Full Report
+[Black Friday Sale Report.pdf](https://github.com/user-attachments/files/18860551/Black.Friday.Sale.Report.pdf)
+
 ---
